@@ -5,5 +5,5 @@ author = ["Jonathanloz<Jonathanloz@ciencias.unam.mx>"]
 [deps]
 BoundaryValueDiffEq = "764a87c0-6b3e-53db-9096-fe964310641d"
 [compat]
-BoundaryValueDiffEq = ">=2.3.2"
+BoundaryValueDiffEq = ">=2.0.0"
 julia=">=1.1"
