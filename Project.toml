@@ -1,9 +1,9 @@
 name = "Vortice"
 uuid = "286ff66b-9b1b-5805-8ad0-4d725a2cae59"
-version = "0.1.1"
+version = "1.0.0"
 author = ["Jonathanloz<Jonathanloz@ciencias.unam.mx>"]
 [deps]
 BoundaryValueDiffEq = "764a87c0-6b3e-53db-9096-fe964310641d"
 [compat]
-BoundaryValueDiffEq = ">=2.0.0"
+BoundaryValueDiffEq = ">=2.0"
 julia=">=1.1"
